@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = "https://main-medspin-server.vercel.app"
+const port = "5000"
 
 app.get('/', (req, res) => {
   res.send('Hello World!')

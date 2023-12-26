@@ -4,14 +4,15 @@ const router = Router();
 
 router.get("/topCourses", async (req, res) => {
   try {
-    console.log("here")
-    fs.readFile("./public/topCourses.json", "utf8", (err, data) => {
-      if (err) {
-        return;
-      }
-      console.log(data);
-      res.send(data);
-    });
+    // console.log("here")
+    // fs.readFile("./public/topCourses.json", "utf8", (err, data) => {
+    //   if (err) {
+    //     return;
+    //   }
+    //   console.log(data);
+    //   res.send(data);
+    // });
+    res.send('Hello 11 World!')
   } catch (e) {
     res.status(500).json({ e });
   }

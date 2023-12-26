@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
   res.send('Hello World!')
 })
 
-app.use("/api/course", require("./src/routes/course.routes"));
+app.use("/api/course", require("./routes/course.routes"));
 
 app.listen(port, () => {
   console.log(`Server running ${port}`)

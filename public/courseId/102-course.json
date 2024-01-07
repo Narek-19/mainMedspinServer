@@ -1,0 +1,32 @@
+{
+    "title":"MRI BASES LEVEL 2 (blended)",
+    "courseType":"Blended",
+    "prerequisites":"MRI Bases Level 1",
+    "descriptionOne":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
+    "descriptionList":{
+        "title":"In this course you will discover following concepts about MRI physics (level 2)",
+        "discoverList":[
+            "Quick remind of MR Basics Level1",
+            "MR 2 main sequences: spin/turbo-spin echo and gradient echo",
+            "Inversion Recovery (IR) technics",
+            "Tissue saturation technics (fat, water, macromolecules)",
+            "Main image artifacts"
+        ]
+    },
+    "datesDuration":{
+        "title":"7 hours using blended learning technics",
+        "datesLIst":[
+            "When: July 21 st , 2024, 9 am to 5 pm",
+            "Duration: 7 hours (1 hour lunch time)",
+            "June 9 th /7pm, 2024: 1-hour virtual classroom (E-Learning question-answers and new chapter)"
+        ]    
+    },
+    "needMaterials":[
+            "Classroom for 8 trainees and 4 independent computers for hands-on sessions",
+            "Video-projector for Power Point presentation by the trainer",
+            "Whiteboard for additional schematic description/interaction (trainer/trainee)",
+            "Printed support with space for notes."
+    ],
+    "certefication":"Yes",
+    "price":"50.000 Dram(Included Lunch)"
+}

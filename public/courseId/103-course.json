@@ -1,0 +1,34 @@
+{
+    "title":"MRI BASES LEVEL 2 (classroom)",
+    "courseType":"Classroom",
+    "prerequisites":"MRI Bases, Level 1",
+    "descriptionOne":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
+    "descriptionList":{
+        "title":"In this course you will discover following concepts about MRI physics (level 2)",
+        "discoverList":[
+            "Quick remind of MR Basics Level 1",
+            "MR 2 main sequences: spin/turbo-spin echo and gradient echo",
+            "Inversion Recovery (IR) technics",
+            "Tissue saturation technics (fat, water, macromolecules)",
+            "Main image artifacts"
+        ]
+    },
+    "datesDuration":{
+        "title":"7 hours using blended learning technics",
+        "datesLIst":[
+            "June 2 nd /7pm 2024 : 1-hour virtual classroom (with teacher)",
+            "2 hours E-Learning using video presentation and quiz (without teacher)",
+            "June 9 th /7pm, 2024: 1-hour virtual classroom (E-Learning question-answers and new chapter)",
+            "2 hours E-Learning using video presentation and quiz (last chapters)",
+            "June 16 th /7pm, 2024: 1-hour virtual classroom and final quiz, then certification download"
+        ]    
+    },
+    "needMaterials":[
+            "Computer/laptop equipped with webcam, speakers/headphones and microphone.",
+            "Internet connection unless 5Mbs",
+            "The functionality of above requested parameters should be tested before the course.",
+            "Calm place for better concentration"
+    ],
+    "certefication":"Yes",
+    "price":"50.000 Dram"
+}

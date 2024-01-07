@@ -1,0 +1,33 @@
+{
+    "title":"MRI Bases Level 1(Blended)",
+    "courseType":"Blended",
+    "prerequisites":"No",
+    "descriptionOne":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
+    "descriptionList":{
+        "title":"In this course you will discover following concepts about MRI Physics(Basic Level)",
+        "discoverList":[
+            "Magnet, Radiofrequency (RF), Gradients",
+            "From proton to MR signal and from signal to MR Image (2D and 3D)",
+            "Understanding of image properties: Spatial and temporal Resolution, Signal to noise/contrast ratio",
+            "Basic sequence parameters management: FOV, Matrix, Slices"
+        ]
+    },
+    "datesDuration":{
+        "title":"7 hours using blended learning technics (see blended learning approach clicking here)",
+        "datesLIst":[
+            "June 1 st /7pm 2024 : 1-hour virtual classroom (with teacher)",
+            "2 hours E-Learning using video presentation and quiz (without teacher)",
+            "June 8 th /7pm, 2024: 1-hour virtual classroom (E-Learning question-answers and new chapter)",
+            "2 hours E-Learning using video presentation and quiz (last chapters)",
+            "June 15 th /7pm, 2024: 1-hour virtual classroom and final quiz, then certification download"
+        ]    
+    },
+    "needMaterials":[
+            "Computer/laptop equipped with webcam, speakers/headphones and microphone.",
+            "Internet connection unless 5Mbs",
+            "The functionality of above requested parameters should be tested before the course.",
+            "Calm place for better concentration"
+    ],
+    "certefication":"No",
+    "price":"50.000 Dram"
+}

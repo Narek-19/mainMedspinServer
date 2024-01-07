@@ -1,0 +1,30 @@
+{
+    "title":"MRI BASES LEVEL 1 (classroom)",
+    "courseType":"Classroom",
+    "prerequisites":"No",
+    "descriptionOne":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
+    "descriptionList":{
+        "title":"In this course you will discover following concepts about MRI physics (level 1)",
+        "discoverList":[
+            "Magnet, Radiofrequency (RF), Gradients",
+            "From proton to MR signal and from signal to MR Image (2D and 3D)",
+            "Understanding of image properties: Spatial and temporal Resolution, Signal to noise/contrast ratio",
+            "Basic sequence parameters management: FOV, Matrix, Slices"
+        ]
+    },
+    "datesDuration":{
+        "title":"7 hours using blended learning technics (see blended learning approach clicking here)",
+        "datesLIst":[
+            "when: July 20 th , 2024, 9 am to 5 pm",
+            "Duration: 7 hours (1 hour lunch time)"
+        ]    
+    },
+    "needMaterials":[
+            "Classroom for 8 trainees and 4 independent computers for hands-on sessions",
+            "Video-projector for Power Point presentation by the trainer",
+            "Whiteboard for additional schematic description/interaction (trainer/trainee)",
+            "Printed support with space for notes."
+    ],
+    "certefication":"Yes",
+    "price":"50.000 Dram(including lunch)"
+}

@@ -7,7 +7,7 @@
             "description":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
             "startDate":"June 1st/7pm 2024",
             "duration":"2 week",
-            "img":""
+            "img":"https://main-medspin-server-w9t6.vercel.app/image/section1.png"
         },
         {
             "id":101,
@@ -16,7 +16,7 @@
             "description":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
             "startDate":"July 20th, 2024, 9 am to 5 pm",
             "duration":"1 day - 7 hour included lunch time",
-            "img":""
+            "img":"https://main-medspin-server-w9t6.vercel.app/image/section2.png"
         },
         {
             "id":102,
@@ -25,7 +25,7 @@
             "description":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
             "startDate":"June 2nd/7pm 2024",
             "duration":"2 week",
-            "img":""
+            "img":"https://main-medspin-server-w9t6.vercel.app/image/section3.png"
         }
     ]
 }

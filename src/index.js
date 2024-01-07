@@ -9,6 +9,9 @@ app.get('/', (req, res) => {
 
 app.use("/api/course", require("./routes/course.routes"));
 
+app.use(express.static('public'));
+app.use('/image', express.static('image'));
+
 app.listen(port, () => {
   console.log(`Server running ${port}`)
 })

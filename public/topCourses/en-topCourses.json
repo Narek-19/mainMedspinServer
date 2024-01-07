@@ -1,0 +1,31 @@
+{
+    "topCourses":[
+        {
+            "id":0,
+            "courseType":"Blended",
+            "title":"MRI BASES LEVEL 1 (blended)",
+            "description":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
+            "startDate":"June 1st/7pm 2024",
+            "duration":"2 week",
+            "img":""
+        },
+        {
+            "id":1,
+            "courseType":"Classroom",
+            "title":"MRI BASES LEVEL 1 (classroom)",
+            "description":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
+            "startDate":"July 20th, 2024, 9 am to 5 pm",
+            "duration":"1 day - 7 hour included lunch time",
+            "img":""
+        },
+        {
+            "id":2,
+            "courseType":"Blended",
+            "title":"MRI BASES LEVEL 2 (blended)",
+            "description":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
+            "startDate":"June 2nd/7pm 2024",
+            "duration":"2 week",
+            "img":""
+        }
+    ]
+}

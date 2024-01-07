@@ -1,18 +1,13 @@
 const { Router } = require("express");
-const fs = require("fs");
-const topCourseData = require("../../public/topCourses.json");
+
 const router = Router();
 
-router.get("/topCourses", async (req, res) => {
+router.get("/topCourses/:lng", async (req, res) => {
+  const lng = req.params.lng;
+  const topCourseData = require(`../../public/topCourses/${lng}-topCourses.json`);
+  console.log(lng,"lng");
   try {
-    // fs.readFile("./public/topCourses.json", "utf8", (err, data) => {
-    //   if (err) {
-    //     res.send("Cant take data");
-    //     return;
-    //   }
-    //   console.log(data);
-     
-    // });
+
     res.send(topCourseData);
   } catch (e) {
     res.status(500).json({ e });

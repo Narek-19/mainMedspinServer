@@ -26,6 +26,15 @@
             "startDate":"June 2nd/7pm 2024",
             "duration":"2 week",
             "img":""
+        },
+        {
+            "id":103,
+            "courseType":"Classroom",
+            "title":"MRI BASES LEVEL 2 (Classroom)",
+            "description":"This course is for all who needs to understand Magnetic Resonance Imaging physics from MR magnet to image reconstruction and routine sequence parameters handling.",
+            "startDate":"July 21st, 2024, 9 am to 5 pm",
+            "duration":"1 day(1 hour lunch time)",
+            "img":""
         }
     ]
 }

@@ -9,13 +9,13 @@
   "routes": [
     {
       "src": "/public/image/(.*)",
-      "dest": "/public/image/$1",
+      "dest": "/public/image/",
       "headers": { "Cache-Control": "public, max-age=86400" },
       "methods": ["GET"]
     },
     {
-      "src": "public/topCourses.json",
-      "dest": "public/topCourses.json",
+      "src": "public/topCourses/",
+      "dest": "public/topCourses/(.*)",
       "headers": { "Cache-Control": "public, max-age=86400" },
       "methods": ["GET"]
     },

@@ -8,6 +8,12 @@
   ],
   "routes": [
     {
+      "src": "/public/images/(.*)",
+      "dest": "/public/images/$1",
+      "headers": { "Cache-Control": "public, max-age=86400" },
+      "methods": ["GET"]
+    },
+    {
       "src": "public/topCourses.json",
       "dest": "public/topCourses.json",
       "headers": { "Cache-Control": "public, max-age=86400" },
@@ -15,7 +21,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "src/",
+      "dest": "src/$",
       "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
     }
   ]

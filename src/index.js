@@ -4,7 +4,7 @@ const port = process.env.PORT || "5000"
 
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.sendFile('Hello World!',{root:path.join(__dirname,"public")});
 })
 
 app.use("/api/course", require("./routes/course.routes"));

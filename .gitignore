@@ -3,3 +3,6 @@ node_modules
 
 # Ignore files related to API keys
 .env
+
+# versel add public
+!docs/build/

@@ -23,7 +23,11 @@
       "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
     },
     {
-      "src":"/(.+)",
+      "src":"/((?!.*\\.\\w+$).*",
+      "dest":"src/"
+    },
+    {
+      "src":"/(.+\\.[a-z]+)$",
       "dest":"public/$1"
     }
   ]

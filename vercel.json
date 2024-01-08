@@ -6,12 +6,15 @@
       "use": "@vercel/node"
     },
     {
-      "src": "build_files.sh",
-      "use": "@vercel/static-build",
-      "config": { "distDir": "staticfiles_build" }
-  }
+      "src": "./public/image/(.*)",
+      "use": "@vercel/node"
+    }
   ],
   "routes": [
+    {
+      "src": "/public/(.*)",
+      "dest": "/public/$1"
+  },
     {
       "src": "/(.*)",
       "dest": "src/",

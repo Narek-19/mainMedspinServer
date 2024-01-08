@@ -17,5 +17,6 @@
       "dest": "src/",
       "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
     }
-  ]
+  ],
+  "outputDirectory": "staticfiles_build"
 }

@@ -9,7 +9,6 @@ app.get('/', (req, res) => {
 })
 
 app.use("/api/course", require("./routes/course.routes"));
-app.use("/api/image", require("./routes/image.routes"));
 
 app.use(express.static(path.join(__dirname, '../public')));
 
